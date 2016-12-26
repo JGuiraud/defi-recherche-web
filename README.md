@@ -36,6 +36,12 @@ R4:
 
 ---
 
+Q5 : Que sont les Creatives Commons ? 
+R5 :
+CC ou Creatives Commons "est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs." (Wikipedia)
 
+---
+
+Q6 :
 
 	
