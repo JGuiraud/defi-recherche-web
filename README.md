@@ -8,11 +8,27 @@ R1 -
 
 - Où : Les recherches ont été principalement faites aux Etats-Unis. The Internationalizing the Internet: The Co-evolution of Influence and Technology says p76 (https://books.google.fr/books?id=lESrw3neDokC&pg=PA53&redir_esc=y#v=onepage&q=france&f=false): "The Internet had be subsidized by the US government either directly (...) or through grants users".
 
+---
+
 Q2 - Quelle est la différence entre le Web et Internet ?
 R2 
 - Internet: "Réseau mondial associant des ressources de télécommunication et des ordinateurs serveurs et clients, destiné à l’échange de messages électroniques, d’informations multimédias et de fichiers."
 - Web : "un système de publication et de consultation de documents (textes, sons, images) faisant appel aux techniques de l’hypertexte qui utilisent des renvois permettant de passer directement d’une partie d’un document à une autre, ou d’un document à d’autres documents (...) es technologies à la base du web (url, html, http) ont été mises au point en 1989-1990 par des chercheurs européens du Cern (Organisation européenne pour la recherche nucléaire), Tim Berners-Lee et Robert Cailliau." 
 
 Pour résumer, le Web fait partie d'Internet. Source: https://www.service-public.fr/particuliers/actualites/007052
+
+---
+
+Q3 - Qu’est-ce que cela : 8.8.8.8 --- 192.168.0.1 --- 255.255.255.0 --- 127.0.0.1
+R3 : Ce sont des adresses IP. It refers to refers to the Internet Protocol, part of the TCP/IP suite that underpins the Internet. (http://www.linuxjournal.com/node/1005736).
+Pour information 
+- la première IP redirige vers un DNS publique de Google (http://whatismyipaddress.com/)
+- la deuxième IP vers un réseau local, généralement une box internet.
+- le troisième 255.255.255.0 is the most common subnet mask used on computers connected to Internet Protocol (IPv4) networks. Besides its use on home network routers (https://www.lifewire.com/255-255-255-0-ip-networking-818371)
+- le quatrième est une adresse d'un ordinateur sur un réseau local de Classe A appartenant au masque de sous-réseau 255.0.0.0 vu plus haut (wikipedia). Ce sont des emplacements réseaux réservés en Septembre 1981 (https://tools.ietf.org/rfc/rfc790.txt).
+
+---
+
+Q4 :
 
 	
