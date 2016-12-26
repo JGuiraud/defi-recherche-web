@@ -67,7 +67,11 @@ R10 : Il a participé à la création de RSS 1.0 (format utilisé pour s'abonner
 
 ---
 
-Q11 :
+Q11 : Qu’est-ce que le projet GNU ?
+R11 : "GNU is an operating system that is free software—that is, it respects users' freedom. The development of GNU made it possible to use a computer without software that would trample (people's) freedom." (https://www.gnu.org/)
+
+
+
 
 
 
