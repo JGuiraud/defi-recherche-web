@@ -55,6 +55,16 @@ R7 : Qwant est un moteur de recherche. "Qwant a été lancé en France en févri
 Q8 : Qui est Steve Wozniak ?
 R8 : "Steve Wozniak is an American computer scientist best known as one of the founders of Apple and the inventor of the Apple II computer." (http://www.biography.com/people/steve-wozniak-9537334)
 
+---
+
+Q9 : D'où vient l'expression "bug informatique" ?
+R9 : La légende veut que l'expression vienne de Grace Hopper qui aurait trouvé un insecte (a bug in english) dans l'ordinateur Relay 70 et l'aurait reporté ainsi dans le log book: "First actual case of bug being found". La réalité semble différente. L'origine du mot bug prendrait son origine au 19ème siècle avec Thomas Edison en 1878 "It has been just so in all of my inventions. The first step is an intuition, and comes with a burst, then difficulties arise — this thing gives out and then that "Bugs" — as such little faults and difficulties are called — show themselves and months of intense watching, study and labor are requisite before commercial success or failure is certainly reached." (http://www.computerworld.com/article/2515435/app-development/moth-in-the-machine--debugging-the-origins-of--bug-.html)
+
+---
+
+Q10 : 
+
+
 
 
 	
