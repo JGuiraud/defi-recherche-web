@@ -29,6 +29,13 @@ Pour information
 
 ---
 
-Q4 :
+Q4 : Que sont le copyright et le copyleft ?
+R4: 
+- Copyright : "copyright. Droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique." (Larousse).
+- Copyleft : "méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également. La manière la plus simple de faire d'un programme un logiciel libre est de le mettre dans le domaine public, sans copyright." (Larousse)
+
+---
+
+
 
 	
