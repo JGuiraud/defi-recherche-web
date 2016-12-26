@@ -71,7 +71,12 @@ Q11 : Qu’est-ce que le projet GNU ?
 R11 : "GNU is an operating system that is free software—that is, it respects users' freedom. The development of GNU made it possible to use a computer without software that would trample (people's) freedom." (https://www.gnu.org/)
 
 
+---
 
+Q12 : Quelles sont les différences entre le Http et le Https ?
+R 12 : Http veut dire "HyperText Transfer Protocol". C'est un protocole de communication client-serveur développé pour le World Wide Web (wikipedia). Https est une variante Http sécurié par l'usage des protocoles de cryptage SSL et TLS (http://www.culture-informatique.net/cest-quoi-difference-http-https/). L'utilisation de Https rend la communication entre un utilisateur et sa banque sécurisant, cryptant de fait tout échange.
+
+---
 
 
 
