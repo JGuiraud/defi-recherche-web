@@ -42,6 +42,13 @@ CC ou Creatives Commons "est une organisation à but non lucratif dont le but es
 
 ---
 
-Q6 :
+Q6 : Qui est Grace Hopper ?
+R6 : Military Leader, Mathematician, Computer Programmer (1906–1992). She also helped develop a compiler that was a precursor to the widely used COBOL language and became a rear admiral in the U.S. Navy. (http://www.biography.com/people/grace-hopper-21406809#career-in-computing)
+
+---
+
+Q7 : 
+
+
 
 	
