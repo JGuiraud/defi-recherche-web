@@ -7,3 +7,12 @@ R1 -
 - Pourquoi : We can however say that the word "Internet" per se has been seen for the first time around 1973. Originally known as the "Internetting project" or "the system of network" the project was designed to "develop communication protocols which would allow networked computers to communicate transparently across multiple, linked packet networks" (http://www.internetsociety.org/)
 
 - Où : Les recherches ont été principalement faites aux Etats-Unis. The Internationalizing the Internet: The Co-evolution of Influence and Technology says p76 (https://books.google.fr/books?id=lESrw3neDokC&pg=PA53&redir_esc=y#v=onepage&q=france&f=false): "The Internet had be subsidized by the US government either directly (...) or through grants users".
+
+Q2 - Quelle est la différence entre le Web et Internet ?
+R2 
+- Internet: "Réseau mondial associant des ressources de télécommunication et des ordinateurs serveurs et clients, destiné à l’échange de messages électroniques, d’informations multimédias et de fichiers."
+- Web : "un système de publication et de consultation de documents (textes, sons, images) faisant appel aux techniques de l’hypertexte qui utilisent des renvois permettant de passer directement d’une partie d’un document à une autre, ou d’un document à d’autres documents (...) es technologies à la base du web (url, html, http) ont été mises au point en 1989-1990 par des chercheurs européens du Cern (Organisation européenne pour la recherche nucléaire), Tim Berners-Lee et Robert Cailliau." 
+
+Pour résumer, le Web fait partie d'Internet. Source: https://www.service-public.fr/particuliers/actualites/007052
+
+	
