@@ -50,6 +50,11 @@ R6 : Military Leader, Mathematician, Computer Programmer (1906–1992). She also
 Q7 : Qu'est-ce que Qwant ?
 R7 : Qwant est un moteur de recherche. "Qwant a été lancé en France en février 2013 après deux années de recherche et de développement. Le moteur de recherche (est) aujourd’hui européen" (Qwant.com)
 
+---
+
+Q8 : Qui est Steve Wozniak ?
+R8 : "Steve Wozniak is an American computer scientist best known as one of the founders of Apple and the inventor of the Apple II computer." (http://www.biography.com/people/steve-wozniak-9537334)
+
 
 
 	
