@@ -62,8 +62,12 @@ R9 : La légende veut que l'expression vienne de Grace Hopper qui aurait trouvé
 
 ---
 
-Q10 : 
+Q10 : Qui est Aaron Swartz ?
+R10 : Il a participé à la création de RSS 1.0 (format utilisé pour s'abonner à des publications en ligne), à Reddit, Creatives Commons. Il était un fervant defenseur de l'Internet libre, combat qui lui vaudra de nombreux ennuis judiciaires (hack du MIT pour rendre public 5 millions d'articles scientifiques uniquement disponibles par abonnement). Il s'est suicidé en 2013 à l'age de 26 ans. (http://www.rfi.fr/ameriques/20130125-mort-aaron-swartz-genie-informatique-militant-internet-libre)
 
+---
+
+Q11 :
 
 
 
