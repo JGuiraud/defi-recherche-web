@@ -47,7 +47,8 @@ R6 : Military Leader, Mathematician, Computer Programmer (1906–1992). She also
 
 ---
 
-Q7 : 
+Q7 : Qu'est-ce que Qwant ?
+R7 : Qwant est un moteur de recherche. "Qwant a été lancé en France en février 2013 après deux années de recherche et de développement. Le moteur de recherche (est) aujourd’hui européen" (Qwant.com)
 
 
 
