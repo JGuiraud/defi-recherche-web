@@ -94,7 +94,7 @@ R15 : Marissa Mayer est la CEO de Yahoo. Elle a dirigé plusieurs projets au sei
 --- 
 
 Q16 : Qu’est-ce qu’une attaque “brute force” ?
-R16 : Méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles. Cette méthode est en général considérée comme la plus simple concevable. (wikipedia)
+R16 : Méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles. Cette méthode est en général considérée comme la plus simple concevable. (wikipedia)https://www.domcomp.com/
 
 ---
 
@@ -105,6 +105,27 @@ R17 : Linus Torvalds is the world's most famous computer programmer and also its
 
 Q18 : Combien coûte un nom de domaine ?
 R18 : Les prix diffère de la gratuité à plusieurs dizaines d'euros. (https://www.domcomp.com/)
+
+---
+
+Q19 : Quels sont les différents services d'emailing disponibles ? Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+R19 : ---
+
+--- 
+
+Q20 : Quelle est votre adress IP actuelle ? Et celle de votre smartphone ?
+R20 :
+- IP laptop : 212.234.108.165
+- IP Smartphone : 212.234.108.165
+(https://www.whatismyip.com)
+
+---
+
+Q21 : Qu’est-ce que le développement en cycle V ?
+R21 : Le développement en cycle V est une méthode Agiles. C'est "un modèle conceptuel de gestion de projet pour le déroulement d’une « release ». (Le cycle en V) est devenu un standard dans le monde du développement. Il comprend un découpage particulier des tâches, regroupant ainsi la gestion totale du projet." Le cycle V est constitué de 9 étapes: l’expression du besoin | les spécifications fonctionnelles | Conception générale | Conception détaillé | Codage (ou développement) | Tests unitaires | Tests fonctionnelles | Tests de validation | Recette et maintenance.
+- Avantages : Permet de bien réfléchir et de se poser les bonnes questions au début du projet, autant du côté client que du côté du prestataire.
+- Inconvénients : manque de souplesse, péremption du produit, recherche de l'idéal.
+(http://www.supinfo.com/articles/single/795-cycle-v)
 
 
 
