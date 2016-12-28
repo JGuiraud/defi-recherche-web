@@ -138,7 +138,15 @@ R22 : Les hackers sont de faits des hors la loi même si la loi définie deux ty
 
 ---
 
-Q23
+Q23 : Qui a inventé la souris ?
+R23 : Douglas Engelbart, ingénieur et pionnier de l'informatique est l'inventeur de la souris. Il est à l'origine de 21 brevets. Il a reçu en 2000 la médaille nationale de la technologie, la plus haute distinction du secteur. (http://www.lemonde.fr/disparitions/article/2013/07/03/douglas-engelbart-l-inventeur-de-la-souris-est-mort_3441495_3382.html)
+
+---
+
+Q24 : Qui est Margaret Hamilton ? 
+R24 : C'est une mathématicienne qui a contribué à la réalisation du programme qui a transporté l'humanité sur la lune en 1969. (http://rue89.nouvelobs.com/2015/10/15/margaret-hamilton-pionniere-logiciels-a-transportes-lune-261662)
+
+---
 
 
 
