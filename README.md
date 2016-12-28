@@ -96,6 +96,16 @@ R15 : Marissa Mayer est la CEO de Yahoo. Elle a dirigé plusieurs projets au sei
 Q16 : Qu’est-ce qu’une attaque “brute force” ?
 R16 : Méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles. Cette méthode est en général considérée comme la plus simple concevable. (wikipedia)
 
+---
+
+Q17 : Qui est Linus Torvalds ? Quels sont ses plus grands développements ?
+R17 : Linus Torvalds is the world's most famous computer programmer and also its most famous Finn. He is the founder and coordinator of Linux, the Unix-like operating system. (http://www.linfo.org/linus.html)
+
+---
+
+Q18 : Combien coûte un nom de domaine ?
+R18 : Les prix diffère de la gratuité à plusieurs dizaines d'euros. (https://www.domcomp.com/)
+
 
 
 
