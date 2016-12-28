@@ -83,6 +83,20 @@ R13 : Richard Matthew Stallman is a software developer and software freedom acti
 
 ---
 
+Q14 : Comment fonctionnent les bang de Duck Duck Go ?
+R14 : Les bangs sont des "commandes" définient par la communauté qui permettent de rechercher sur le site DuckDuckGo en mettant comme charactère clé !
+
+---
+
+Q15 : Qui est Marissa Mayer ?
+R15 : Marissa Mayer est la CEO de Yahoo. Elle a dirigé plusieurs projets au sein de Google avant cela. Elle est ingénieur de formation. (http://www.biography.com/people/marissa-mayer-20902689#synopsis)
+
+--- 
+
+Q16 : Qu’est-ce qu’une attaque “brute force” ?
+R16 : 
+
+
 
 
 	
