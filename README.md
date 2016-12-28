@@ -127,6 +127,18 @@ R21 : Le développement en cycle V est une méthode Agiles. C'est "un modèle co
 - Inconvénients : manque de souplesse, péremption du produit, recherche de l'idéal.
 (http://www.supinfo.com/articles/single/795-cycle-v)
 
+---
+
+Q22 : Les Hackers sont-ils des hors-la-loi ?
+R22 : Les hackers sont de faits des hors la loi même si la loi définie deux types de pirates informatiques :
+- hacker classique, qui s''introduit dans les systèmes par des moyens illégaux sans détruire les données ni utiliser les informations données, mais dans le seul but de faire savoir qu''il existe des failles de sécurité
+- cracher (casseur), appellation qui désigne le pirate qui détruit dans un but précis ou pour le plaisir. Les « crachers » sont par définition dangereux puisque animés d’une intention de nuire évidente (vol etc.).
+-  Aux yeux de la loi, chacun d'entre eux peut être poursuivi au regard des dispositions du Code pénal en matière de fraude informatique (La loi dite « Godfrain » du 5 Janvier 1988 (n° 88-19), La loi « pour la confiance dans l’économie numérique » du 21 juin 2004 (n° 2004-575).
+(http://www.legavox.fr/blog/murielle-cahen/intrusion-dans-systeme-informatique-hacking-314.htm#.WGOwvvErLQo)
+
+---
+
+Q23
 
 
 
