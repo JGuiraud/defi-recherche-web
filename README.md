@@ -144,7 +144,18 @@ R23 : Douglas Engelbart, ingénieur et pionnier de l'informatique est l'inventeu
 ---
 
 Q24 : Qui est Margaret Hamilton ? 
-R24 : C'est une mathématicienne qui a contribué à la réalisation du programme qui a transporté l'humanité sur la lune en 1969. (http://rue89.nouvelobs.com/2015/10/15/margaret-hamilton-pionniere-logiciels-a-transportes-lune-261662)
+R24 : C'est une mathématicienne qui a dirigé l'équipe qui a réalisé le programme qui a transporté l'humanité sur la lune en 1969. (http://rue89.nouvelobs.com/2015/10/15/margaret-hamilton-pionniere-logiciels-a-transportes-lune-261662)
+
+---
+
+Q25 : Retrouvez le code source de la mission Apollo 11. Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+R25 : Le code source est disponible sur Github : https://github.com/chrislgarry/Apollo-11.
+
+---
+
+Q24 : Qu’est-ce que Agile Manifesto ?
+R24 : "It is a formal proclamation of four key values and 12 principles to guide an iterative and people-centric approach to software development."(http://searchcio.techtarget.com/definition/Agile-Manifesto) 
+The Agile Manifesto was written in February of 2001 by seventeen independent-minded software practitioners . While the participants didn't agree about much, they found consensus around four main values: Individuals and interactions over processes and tools, Working software over comprehensive documentation, Customer collaboration over contract negotiation, Responding to change over following a plan." (https://www.agilealliance.org/agile101/the-agile-manifesto/)
 
 ---
 
