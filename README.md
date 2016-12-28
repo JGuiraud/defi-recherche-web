@@ -159,6 +159,13 @@ The Agile Manifesto was written in February of 2001 by seventeen independent-min
 
 ---
 
+Q25 : Trouvez un screenshot de la première version de Facebook.
+R25 : https://web.archive.org/web/20051127012934/http://www.facebook.com/
+
+--- 
+
+Q26 : Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+
 
 
 
