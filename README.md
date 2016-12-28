@@ -94,7 +94,10 @@ R15 : Marissa Mayer est la CEO de Yahoo. Elle a dirigé plusieurs projets au sei
 --- 
 
 Q16 : Qu’est-ce qu’une attaque “brute force” ?
-R16 : 
+R16 : Méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles. Cette méthode est en général considérée comme la plus simple concevable. (wikipedia)
+
+
+
 
 
 
